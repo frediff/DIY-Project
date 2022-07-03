@@ -17,9 +17,5 @@ The CAD Model
 
 <center><i><h3>
 A simple schematic simulation
-    </h3></i> 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="simulation_Trim.mp4" type="video/mp4">
-  </video>
-</figure></center>
+    </h3></i> <img src="simulation_Trim.gif">
+</center>
